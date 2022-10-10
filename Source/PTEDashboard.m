@@ -105,7 +105,6 @@ static PTEDashboard * _sharedDashboard;
 {
     self.hidden = NO;
     self.minimized = YES;
-    NSLog(@"sl fork!");
 }
 - (void)hide
 {
